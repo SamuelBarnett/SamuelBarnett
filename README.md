@@ -1,5 +1,5 @@
 - 👋 Hey, I'm Sam.
-- 👀 I’m interested in Web Development at the moment. I am also a co-op student looking for a placment for the winter.
+- 👀 I’m interested in Web Development at the moment. I am also a co-op student looking for a placment for the summer.
 - 🌱 I’m currently learning Javascript and C++.
 - 💞️ I’m looking to collaborate on any webites or other projects that interest me.
 - 📫 You can reach me at samuelbarnett@trentu.ca.
