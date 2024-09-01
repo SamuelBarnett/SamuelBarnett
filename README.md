@@ -1,5 +1,5 @@
 - 👋 Hey, I'm Sam.
-- 🌱 I’m currently studying Computer Science at Trent University with a focus on DS&A and backend web development.
+- 🌱 I’m currently studying Computer Science at Trent University with a focus on DS&A and data science.
 - 📫 You can reach me at samuelbarnett@trentu.ca.
 
 <!---
