@@ -1,7 +1,5 @@
 - 👋 Hey, I'm Sam.
-- 👀 I’m interested in Web Development at the moment.
-- 🌱 I’m currently studying Javascript and C++.
-- 💞️ I’m looking to collaborate on any webites or other projects that interest me.
+- 🌱 I’m currently studying Computer Science at Trent University with a focus on DS&A and backend web development.
 - 📫 You can reach me at samuelbarnett@trentu.ca.
 
 <!---
